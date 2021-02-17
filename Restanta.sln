@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restanta", "Restanta.csproj", "{B040F96A-C2F7-441C-97A1-80DEFFCEC678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLotModel", "..\GameLotModel\GameLotModel.csproj", "{D584BC32-A495-4608-9511-CF8C398F48CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B040F96A-C2F7-441C-97A1-80DEFFCEC678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B040F96A-C2F7-441C-97A1-80DEFFCEC678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B040F96A-C2F7-441C-97A1-80DEFFCEC678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B040F96A-C2F7-441C-97A1-80DEFFCEC678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D584BC32-A495-4608-9511-CF8C398F48CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D584BC32-A495-4608-9511-CF8C398F48CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D584BC32-A495-4608-9511-CF8C398F48CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D584BC32-A495-4608-9511-CF8C398F48CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {575D1FAE-8731-41C7-B654-AEC61DE385DB}
+	EndGlobalSection
+EndGlobal
